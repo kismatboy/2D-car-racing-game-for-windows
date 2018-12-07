@@ -1,0 +1,33 @@
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.xml
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.Form1.resources
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.Resources.resources
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.vbprojCarRace.vbproj.GenerateResource.cache
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.xml
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.pdb
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.vbprojCarRace.vbprojResolveAssemblyReference.cache
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.xml
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.pdb
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\bin\Debug\CarRace.xml
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.vbprojCarRace.vbprojResolveAssemblyReference.cache
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.Form1.resources
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.Resources.resources
+C:\Users\romeo\Desktop\vb project\CarRace\CarRace\obj\Debug\CarRace.vbprojCarRace.vbproj.GenerateResource.Cache
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.xml
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.pdb
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\bin\Debug\CarRace.xml
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.vbprojCarRace.vbprojResolveAssemblyReference.cache
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.Form1.resources
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.Resources.resources
+C:\Users\romeo\Desktop\vb project\expo\CarRace\CarRace\obj\Debug\CarRace.vbprojCarRace.vbproj.GenerateResource.Cache

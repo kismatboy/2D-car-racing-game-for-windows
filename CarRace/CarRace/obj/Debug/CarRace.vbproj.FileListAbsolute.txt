@@ -1,0 +1,12 @@
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.exe.config
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.exe
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.pdb
+C:\Users\romeo\source\repos\CarRace\CarRace\bin\Debug\CarRace.xml
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.vbprojAssemblyReference.cache
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.Form1.resources
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.Resources.resources
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.vbproj.GenerateResource.cache
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.vbproj.CoreCompileInputs.cache
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.exe
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.xml
+C:\Users\romeo\source\repos\CarRace\CarRace\obj\Debug\CarRace.pdb
